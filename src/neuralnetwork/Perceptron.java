@@ -1,7 +1,7 @@
 package neuralnetwork;
 
 public class Perceptron {
-    public static final double THRESHOLD = 1.0;
+    public static final double THRESHOLD = 0.0;
     public static final int[][][] trainingData = {{{0,0},{0}},
                                                   {{0,1},{0}},
                                                   {{1,0},{0}},
